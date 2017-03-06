@@ -13,3 +13,4 @@ Go to Starbucks App > Order > Espresso Drinks > Delivery
 When editing a route:
 1) Some of the Add buttons will be not be functional; this is to keep a linear flow for this prototype. However, if you select top-left, middle, and bottom-right in that order, it will flow properly.
 
+The rest of the app is pretty self-explanatory. Explore and enjoy.
